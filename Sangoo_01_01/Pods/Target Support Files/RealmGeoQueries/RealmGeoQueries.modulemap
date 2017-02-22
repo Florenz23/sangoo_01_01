@@ -1,6 +1,0 @@
-framework module GeoQueries {
-  umbrella header "RealmGeoQueries-umbrella.h"
-
-  export *
-  module * { export * }
-}
